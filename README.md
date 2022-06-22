@@ -1,6 +1,4 @@
 ### Hi there 👋 
-<img src="https://wifflegif.com/gifs/167602-sparkling-rotating-gif.gif" width="30px">
-
 - currently an undergrad student at UF, majoring in data science and minoring in sustainability
 - pronouns: she/her
 - reach me at mirasaldanha@ufl.edu
