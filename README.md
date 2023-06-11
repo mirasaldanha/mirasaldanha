@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- currently an undergrad student at UF, majoring in data science and minoring in sustainability
+- currently an undergrad student at UF, majoring in data science and minoring in sustainability and math
 - pronouns: she/her
 - reach me at mirasaldanha@ufl.edu
 - welcome to my github!!!
